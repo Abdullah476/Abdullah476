@@ -1,12 +1,12 @@
 # Hi there, I'm Abdullah 👋 
 
-## I'm a Machine Learning Engineer, and a Data Scientist!!
+## I'm a Machine Learning Engineer, and a Data Scientist!!!
 
 - 🌱 Freelance Work 
 - 👯 Open to collaborate with other designers & developers
 - 🥅 2022 Goals: Learn more about New ML Models, Libraries, and Techniques
 - ⚡ Fun fact: I love to play football and esports
-- 📫 Connect with me on linkedIn:: https://www.linkedin.com/in/abdullah-2a7891194/
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/abdullah-2a7891194/">LinkedIn</a>
 
 # Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
