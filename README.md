@@ -4,8 +4,8 @@
 
 - 🌱 Freelance Work 
 - 👯 Open to collaborate with other designers & developers
-- 🥅 2022 Goals: Learn more about New Models, Libraries, and ML Techniques
-- ⚡ Fun fact: I love to play football and esports.
+- 🥅 2022 Goals: Learn more about New ML Models, Libraries, and Techniques
+- ⚡ Fun fact: I love to play football and esports
 - 📫 Connect with me on linkedIn:: https://www.linkedin.com/in/abdullah-2a7891194/
 
 # Languages and Tools:
