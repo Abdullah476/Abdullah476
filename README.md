@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah 👋 
 
-## I'm a Machine Learning Engineer, and a Data Scientist!!!
+## I'm a Software Engineer with an interest in Machine Learning, and Data Sciene!!!
 
 - 🌱 Freelance Work 
 - 👯 Open to collaborate with other designers & developers
