@@ -1,10 +1,10 @@
 # Hi there, I'm Abdullah 👋 
 
-## I'm a Software Engineer with an interest in Machine Learning, and Data Science!!!
+## I'm a Cloud/AI Engineer!!!
 
 - 🌱 Freelance Work 
 - 👯 Open to collaborate with other designers & developers
-- 🥅 2023 Goals: Learn more about evolving technologies
+- 🥅 2024 Goals: Learn more about evolving technologies and focus on getting certifications
 - ⚡ Fun fact: I love to play football and eSports
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/abdullah-2a7891194/">LinkedIn</a>
 - 🔭 Check my Articles related to ML Problems and their Solutions on <a href="https://medium.com/@abdullahajaz51">Medium</a>
